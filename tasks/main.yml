@@ -1,0 +1,5 @@
+---
+# tasks file for dep_role_2
+- name: We are in dep-role-2
+  ansible.builtin.debug:
+    msg: We are in dep-role-2
